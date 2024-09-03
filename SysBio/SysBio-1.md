@@ -1,7 +1,7 @@
 # Systems Biology Definition
 
 - What is Systems Biology?
-    - An interdisciplinary field which integrates computational and mathematical approaches to study complex biological interactions through 
+    - An multidisciplinary field which integrates computational and mathematical approaches to study complex biological interactions 
 
 # Paper - Bhupathiraju Summary
 
@@ -25,5 +25,43 @@
 - Some common factors associated with PPGR after standardized meals are: HbAlc, BMI, systolic blood pressure and  alanine aminotransferase (ALT)
 - Microbiome features: Proteobacteria and Enterobacteriaceae exhibit positive correlations with few standardized meals PPGR
 - Overall, clinical and microbiome features could predict PPGR after meals accurately on train and test set
+
+# Lecture 1 - Notes
+
+###  Systems Biology
+
+- Capture biological systems in mathematical models -> understand and predict biological systems -> holistic approach
+
+### Biological systems
+
+- Amazon rainforest
+- Namibian desert
+- Fish pond
+- Kidneys
+- Mitochondria
+
+### Why are biological systems hard to grasp?
+
+- Complex
+- Change over time
+- Heterogeneous
+- Not built by us
+- Behave non-linearly
+
+### Multilevel vs Multiscale modelling
+
+- **Multilevel**: considers dynamic processes at multiple levels (e.g. cellular, tissue level) of biological systems
+    - Example: model for analysing brain tissue
+- **Multiscale**: modelling incorporates multiple different temporal and spatial scales in one model, regardless of whether the model has mutiple levels
+    - Example: simulating floods on buildings
+
+### Top down vs Bottom up approach
+
+- **Top-down**: determine general principles, start with limited data and use an optimization algorithm
+    - breaking down a complex system to gain insight
+- **Bottom-up**: detailed experimental data collected one by one to combine it into a bigger system
+    - piecing together of smaller systems to form a complex system
+
+### 
 
 
