@@ -74,6 +74,87 @@
     - Movement (bone)
 
 
+- 3 unique factors of connective tissue
+    - Share an origin (form from mesenchyme)
+    - Different degrees of vascularity (blood flow)
+    - All connective tissues are mostly composed of non-living materal
+
+
+### Skin
+
+- Protects the body against infection and extreme features temperatures
+- Maintains balance of fluids
+- Synthesizes vitamin D
+- Forms together with nails, hair, sweat and oil glands the integumentary system
+
+### Skin - layers
+
+- Has 3 layers each with their job
+    - Epidermis
+        - Protection layer for infection/pathogens
+        - Regulates amount of water released from body
+    - Dermis
+        - Most functional parts 
+    - Hypodermis
+        - Mainly fat storage    
+- Contains many immune cells
+
+### Nervous System
+
+- Control room of your body
+- Coordinates actions by transmitting signals through the body
+- Consists of two parts
+    - Central nervous system (CNS)
+    - Peripheral nervous system (PNS)
+
+### Central Nervous System (CNS)
+
+- Consists of the brain and spinal cord
+- Protected by skull (brain) and vertebrae (spinal cord)
+- Integrates receiving information
+- Influences activity of body
+- Uses the most energy in our body
+
+### Peripheral Nervous System (PNS)
+
+- Nerves and ganglia outside the brain
+- Main function: connect CNS to limbs and organs
+- Unlike CNS it is not protected (i.e. vulnerable)
+- PNS can be divided into:
+    - Somatic nervous system (voluntary control)
+    - Autonomic nervous system (involuntary control)
+
+### Endocrine System
+
+- Gathers information and sends instructions throughout the body, like nervous system does
+- Endocrine glands are scattered over your body
+- Produce hormones
+- Keeps your body in balance (essential for homeostasis)
+
+### Endocrine vs Nervous System
+
+- Signals:
+    - NS: electrical impulses (action potentials)
+    - ES: chemical impulses (hormones)
+- Pathways:
+    - NS: transmission by neurons
+    - transported by blood
+- Speed of information:
+    - NS: fast
+    - ES: slow
+- Duration of effect:
+    - NS: short-lived
+    - ES: short/long-lived
+- Type of action/response:
+    - NS: voluntary/involuntary    
+    - ES: always involuntary
+- Target:
+    - localized (cells connected to neurons)
+    - often distant (many cells can be affected)
+
+### Endocrine System - Importance?
+
+
 
 
 
