@@ -154,6 +154,16 @@
 
 ### Endocrine System - Importance?
 
+- Sugar level in your blood goes through the roof
+- Pancreas creates insulin to lower blood sugar and stimulate sugar storage in cells
+
+### Endocrine - More info
+
+- A single gland may produce multiple hormones
+    - A single hormone may be secreted by more than one 7endocrine gland
+    - Single hormone has more than one type of target cell
+    - Rate of secretion varies over course of time
+    - Some hormones only exist to control other
 
 
 
