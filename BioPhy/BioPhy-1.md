@@ -190,6 +190,26 @@
 - Absorption 
 - Defecation
 
+# Animal Cell - Annotations
+
+- Flagellum (tail): composed of a cluster of microtubules within an extension of the plasma membrane
+- Centrosome (golden T-shaped): regions where the cell's microtubles are initiated; contains a pair of centrioles 
+- Cytoskeleton: reinforces cell's shape; functions in cell movement; components are made of proteins:
+    - Microfilaments
+    - Intermediate filaments
+    - Microtubles
+- Microvilli (long oval-shaped): membrane projetions that increase the cell's surface area
+- Peroxisome (bigger ball-shaped): organelle with various specialized metabolic functions; produces hydrogen peroxide as a by-product and then converts it to water
+- Mitochondria: organele where cellular respiration occurs and most ATP is generated
+- Lysosome (smaller ball-shaped): digestive organelle where macromolecules are hydrolyzed
+- Golgi apparatus (series of stacked cisternae): organelle active in synthesis, modification, sorting, and secretion of cell products
+- Ribosomes (small brown dots): complexes that make proteins; free in cytosol or bound to rough ER / nuclear envelope
+- Plasma membrane: membrane enclosing the cell
+- Nucleus:
+    - Nuclear envelope (outermost): double membrane enclosing the nucleus; perforated (pierced with holes) by pores; continuous with the ER
+    - Nucleolus(innermost): nonmembranous structure involved in production of ribosomes; a nucleus has one or more nucleoli
+    - Chromatin (middle): material consisting of DNA and protein; visible in a dividing cell as individual condensed chromosomes
+- Endoplasmic reticulum (ER): network of membranous sacs and tubes; active in membrane synthesis and other synthetic and metabolic processes; has rough (ribosome-studded) and smooth regions
 
 
 
