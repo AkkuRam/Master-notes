@@ -165,6 +165,32 @@
     - Rate of secretion varies over course of time
     - Some hormones only exist to control other
 
+### Circulatory System
+
+- Cardiovascular system / vascular system
+- Transports nutrients, hormones, oxygen, carbon dioxide, blood
+- LOOK INTO HOW IT WORKS 
+
+### Digestive System
+
+- Gastrointestinal tract
+- Accessory organs of digestion (i.e. tongue, salivary glands, pancreas, liver, gall bladder)
+- Function of DS
+    - Building blocks for our body
+    - Digestion of food (i.e. breakdown into small molecules)
+    - Absorption of the right nutrients at the right time
+    - Excretion of waste
+
+### Digestion System - The process
+
+- Ingestion - getting food in mouth
+- Propulsion - moving food from one region from one region to another
+- Mechanical digestion
+- Chemical digestion 
+- Absorption 
+- Defecation
+
+
 
 
 
